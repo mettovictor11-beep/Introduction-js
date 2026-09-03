@@ -52,7 +52,7 @@ console.log(!isDarkMode ? "Dark mode is enabled" : "Dark mode is disabled");
 let registeredEmail = "victor@gmail.com"
 let registeredPassword = 2547
 
-let loginEmail = ""
+let loginEmail = "victor@gmail.com"
 let loginPassword =  2547
 
 if(loginEmail ==""){
